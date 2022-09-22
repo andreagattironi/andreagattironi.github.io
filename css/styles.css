@@ -1,5 +1,8 @@
 body {
-	font-family: Rubik, sans-serif
+	font-family: Rubik, sans-serif;
+	overflow-x: scroll;
+    	overflow-y: hidden;
+    	max-height: 100vh;
 }
 form {
 	max-width: 500px;
